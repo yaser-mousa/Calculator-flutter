@@ -4,6 +4,7 @@ var boldgrey = Colors.grey.shade800;
 var lightgrey = Colors.grey;
 var orange = Colors.orangeAccent;
 var str = 'kk';
+var num;
 
 var buttonsDataList = [
   [
